@@ -29,7 +29,7 @@ body {
     max-width: 1500px;   /* maximum width on large screens */
     width: 100%;          /* shrink on smaller screens */
     margin: 0 auto;       /* center horizontally */
-    min-height: 100vh;    /* full viewport height, can grow */
+        /* full viewport height, can grow */
     box-sizing: border-box;
     padding: 0 20px;
 }
@@ -95,8 +95,8 @@ main li {
 }
 
 main li img {
-  width: 300px;
-  height: 280px;
+  width: 450px;
+  height: 300px;
   object-fit: cover;
 }
 
@@ -203,7 +203,7 @@ footer img {
         height: auto; /* maintain aspect ratio */
     }
 
-    .links {
+    .mymoon {
       display: flex;
       justify-content: space-around;
     }
