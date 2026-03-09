@@ -14,7 +14,7 @@ header {
     gap: 5vw;
     height: 15vh;
     padding: 1vh 0;
-   /* position: relative; */
+    position: relative;
 }
 
 
@@ -152,12 +152,12 @@ font-family:pixelFont;
 }
 
 .mac {
-    top: 5px;
-    right: -235px;
+    top: 12vw;
+    right: 10vw;
     position: fixed;
     
 }
-
+/*
 .earth {
     position: absolute;
     right: 2vw;
@@ -166,5 +166,4 @@ font-family:pixelFont;
     width: 5vw;
     height: auto;
 }
-
-
+*/
