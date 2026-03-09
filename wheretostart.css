@@ -80,7 +80,7 @@ body {
 .navColorBlue {
   /* background-color: rgba(0, 0, 255, 0.637); */
   background-color: rgba(2, 2, 37, 0.637);
-  baolor: rgb(22, 211, 228);
+  /* baolor: rgb(22, 211, 228); */
 }
 
 .navColorRed {
@@ -89,11 +89,10 @@ body {
 
 }
 
-.navColorLime {
-  /* background-color: rgba(0, 255, 0, 0.589); */
-  /* background-color: rgba(2, 2, 37, 0.637); */
-
-}
+/* .navColorLime {
+  background-color: rgba(0, 255, 0, 0.589);
+  background-color: rgba(2, 2, 37, 0.637);
+} */
 
 .navColorViolet {
   background-color: rgba(137, 43, 226, 0.582);
